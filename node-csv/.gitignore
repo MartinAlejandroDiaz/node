@@ -1,0 +1,9 @@
+*.csv
+*.xls
+*.xlsx
+*.txt
+*.pdf
+*.jpeg
+/node_modules
+node_modules
+node_modules/
